@@ -1,0 +1,15 @@
+# Ignore heavy data files and databases
+*.csv
+*.db
+*.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variables (security)
+.env
