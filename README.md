@@ -14,7 +14,7 @@ An event-driven microservices architecture decoupling API consumption from datab
 
 *(More automation practices coming soon...)*
 
-## 🛠️ Technology Stack
+## Technology Stack
 *   **Language:** Python 3.11+
 *   **Frameworks:** FastAPI, Uvicorn
 *   **Data Processing:** Pandas
